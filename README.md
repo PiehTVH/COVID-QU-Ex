@@ -1,1 +1,1 @@
-# COVID-QU-Ex
+# COVID-QU-Ex (My first mini project)
